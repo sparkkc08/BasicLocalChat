@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Basic Local Chat</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_leave_chat">Выйти</string>
+    <string name="enter_name">Введите имя</string>
+    <string name="enter_chat">Войти в чат</string>
+    <string name="create_chat">Создать чат</string>
+    <string name="connect">Присоединится</string>
+    <string name="disconnect">Отсоединится</string>
+    <string name="enter_ip">Введите IP адрес сервера</string>
+    <string name="enter_message">Введите сообщение</string>
+    <string name="message_for">Сообщение для %1$s</string>
+</resources>
